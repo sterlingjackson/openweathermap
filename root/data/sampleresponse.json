@@ -1,0 +1,43 @@
+{  
+   "coord":{  
+      "lon":-84.12,
+      "lat":35.99
+   },
+   "weather":[  
+      {  
+         "id":800,
+         "main":"Clear",
+         "description":"clear sky",
+         "icon":"01n"
+      }
+   ],
+   "base":"stations",
+   "main":{  
+      "temp":274.81,
+      "pressure":1031,
+      "humidity":80,
+      "temp_min":274.15,
+      "temp_max":276.15
+   },
+   "visibility":16093,
+   "wind":{  
+      "speed":1.06,
+      "deg":103
+   },
+   "clouds":{  
+      "all":1
+   },
+   "dt":1518144900,
+   "sys":{  
+      "type":1,
+      "id":2534,
+      "message":0.0036,
+      "country":"US",
+      "sunrise":1518179389,
+      "sunset":1518217921
+   },
+   "id":0,
+   "name":"Knoxville",
+   "cod":200
+}
+
